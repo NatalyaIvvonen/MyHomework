@@ -15,7 +15,7 @@ else
     Console.Write("max number is " + num1 + ", ");
     Console.Write("min number is " + num2 + " ");
 }
-*/
+
 
 int num1, num2, num3, max;
 
@@ -39,3 +39,18 @@ if(max < num3)
 }
 
 Console.Write("max number is " + max);
+*/
+
+int num;
+
+Console.Write("Input a number: ");
+num = Convert.ToInt32(Console.ReadLine());
+
+if(num %2 == 0)
+{
+    Console.Write("The number is even");
+}
+else
+{
+    Console.Write("The number is odd");
+}
