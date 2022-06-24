@@ -1,0 +1,15 @@
+N:\дз_Иввонен\homework\c#FirstHw\bin\Debug\net6.0\c#FirstHw.exe
+N:\дз_Иввонен\homework\c#FirstHw\bin\Debug\net6.0\c#FirstHw.deps.json
+N:\дз_Иввонен\homework\c#FirstHw\bin\Debug\net6.0\c#FirstHw.runtimeconfig.json
+N:\дз_Иввонен\homework\c#FirstHw\bin\Debug\net6.0\c#FirstHw.dll
+N:\дз_Иввонен\homework\c#FirstHw\bin\Debug\net6.0\c#FirstHw.pdb
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.csproj.AssemblyReference.cache
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.GeneratedMSBuildEditorConfig.editorconfig
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.AssemblyInfoInputs.cache
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.AssemblyInfo.cs
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.csproj.CoreCompileInputs.cache
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.dll
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\refint\c#FirstHw.dll
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.pdb
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\c#FirstHw.genruntimeconfig.cache
+N:\дз_Иввонен\homework\c#FirstHw\obj\Debug\net6.0\ref\c#FirstHw.dll
