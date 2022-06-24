@@ -39,7 +39,7 @@ if(max < num3)
 }
 
 Console.Write("max number is " + max);
-*/
+
 
 int num;
 
@@ -53,4 +53,18 @@ if(num %2 == 0)
 else
 {
     Console.Write("The number is odd");
+}
+*/
+
+int num, current;
+
+Console.Write("Input a number: ");
+num = Convert.ToInt32(Console.ReadLine());
+
+current = 2;
+
+while(current <= num)
+{
+    Console.Write(current + " ");
+    current = current + 2;
 }
