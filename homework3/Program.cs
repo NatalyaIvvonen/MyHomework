@@ -40,13 +40,14 @@
 
 void CubeNumber(int n)
 {
-    int current, cube;
+    int current;
+    double cube;
 
     current = 1;
 
     while(current <= n)
     {
-        cube = current*current*current;
+        cube = Math.Pow(current, 3);                  
         Console.Write(cube + " ");
         current++;
     }
