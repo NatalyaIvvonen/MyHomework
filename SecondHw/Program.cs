@@ -17,36 +17,36 @@
 
 // task 2
 
-// void ThirdNum(int num)
-// {
+void ThirdNum(int num)
+{
  
-//         while(num < 1000000000)
-//         {
-//             if(num < 99) 
-//             {
-//                 Console.WriteLine("Третьей цифры нет!");
-//                 break;
-//             }
-//             if(num < 1000 && num > 99)
-//             {
-//                 int tis = num % 10;
-//                 Console.WriteLine(tis);
-//                 break;
-//             }
-//             else
-//             {
-//                 num = num / 10;
-//             }
+        while(num < 1000000000)
+        {
+            if(num < 99) 
+            {
+                Console.WriteLine("Третьей цифры нет!");
+                break;
+            }
+            if(num < 1000 && num > 99)
+            {
+                int tis = num % 10;
+                Console.WriteLine(tis);
+                break;
+            }
+            else
+            {
+                num = num / 10;
+            }
             
-//         }
+        }
                  
             
             
-// }
+}
 
-// Console.Write("Input a number: ");
-// int number = Convert.ToInt32(Console.ReadLine());
-// ThirdNum(number);
+Console.Write("Input a number: ");
+int number = Convert.ToInt32(Console.ReadLine());
+ThirdNum(number);
 
 
 
@@ -55,17 +55,17 @@
 
 // task 3
 
-bool DayNumber(int DayNum)
-{
+// bool DayNumber(int DayNum)
+// {
      
-   if(DayNum == 6 || DayNum == 7) 
-        return true;
-    else
-        return false;
+//    if(DayNum == 6 || DayNum == 7) 
+//         return true;
+//     else
+//         return false;
     
-}
+// }
 
-Console.Write("Input a day number: ");
-  int DayOfWeek = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input a day number: ");
+//   int DayOfWeek = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(DayNumber(DayOfWeek));
+// Console.WriteLine(DayNumber(DayOfWeek));
