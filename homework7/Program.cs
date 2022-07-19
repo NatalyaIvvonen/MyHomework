@@ -114,11 +114,11 @@ void FindAverageColumn(int[,] array)
         
         for (int i = 0; i < array.GetLength(0); i++)
         {
-            Math.Round(sum += array[i,j],1);
+            sum += array[i,j];
             
         }
         Math.Round(ave = sum/array.GetLength(0),1);
-        Console.Write($"{ave}, ");
+        Console.Write($"{Math.Round(ave,2)}, ");
     }
     
 }
